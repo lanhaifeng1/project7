@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SensorDemo</string>
+    <string name="main_gravity">Gravity传感器</string>
+    <string name="linear_accel">Linear Accelerator</string>
+    <string name="main_ambient">环境温度</string>
+    <string name="main_ambient_temp">环境温度</string>
+</resources>
